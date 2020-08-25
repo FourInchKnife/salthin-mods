@@ -25,4 +25,5 @@ a directory that you will remember, then run `git clone https://github.com/FourI
 Make sure you copy the folder called `.git/`. You may need show hidden files enabled to be able to see it. If you get a warning that says something like "the mods directory already exists" you should click confirm or overwrite.
 Run the game to make sure all mods load.
 
-To update your mods folder on Linux, use the command `cd ~/.minecraft/salthin-mods/ && git fetch && git clone` in Terminal. Update instructions for Windows will come later.
+To update your mods folder on Linux, use the command `cd ~/.minecraft/salthin-mods/ && git fetch && git clone` in Terminal. On Windows, use the command
+`cd ~/Appdata/Roaming/.minecraft/salthin-mods/ && git fetch && git pull` *Note: this is untested and probably won't work*.
