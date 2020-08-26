@@ -26,4 +26,4 @@ Make sure you copy the folder called `.git/`. You may need show hidden files ena
 Run the game to make sure all mods load.
 
 To update your mods folder on Linux, use the command `cd ~/.minecraft/salthin-mods/ && git fetch && git clone` in Terminal. On Windows, use the command
-`cd ~/Appdata/Roaming/.minecraft/salthin-mods/ && git fetch && git pull` *Note: this is untested and probably won't work*.
+`cd ~/AppData/Roaming/.minecraft/salthin-mods/ && git fetch && git pull`
